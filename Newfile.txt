@@ -1,2 +1,6 @@
 ghihoshdfljsd;lfjsa
+<<<<<<< HEAD
 497594375943875948759437594375
+=======
+sdfsdfjhskldfasldkfj;lsadkfj;lasdjkf;lsajkdf;lsajkdfl
+>>>>>>> 172e77d4ff089b07c47ed08c53b57322fa4e5326
